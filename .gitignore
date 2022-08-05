@@ -3,7 +3,8 @@
 # And the CLI then renames it
 
 # node files
-dist/
+# dist/
+# disabling dist to get a release from main branch
 node_modules/
 
 # iOS files
